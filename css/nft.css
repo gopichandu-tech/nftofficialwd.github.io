@@ -1,0 +1,131 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.container1 {
+  background-color: hsl(217, 54%, 11%);
+  height: 650px;
+  margin-top: 4%;
+  margin-left: 5%;
+  margin-right: 5%;
+  display: grid;
+}
+
+.container2 {
+  background-color: hsl(215, 32%, 27%);
+  width: 400px;
+  margin-top: 2%;
+  margin-bottom: 2%;
+  border-radius: 10px;
+  cursor: pointer;
+  /* margin: 5% 25% 4% 25%; */
+  /* padding: 0 15% 0 15%; */
+  /* margin-top: 50px; */
+}
+
+/* @media (min-width:375px) {
+
+  .container1{
+    height: 700px;
+  }
+
+} */
+#image-container {
+  width: 355px;
+  height: 250px;
+  margin-top: 20px;
+  margin-left: 10px;
+  border-radius: 10px;
+  background-color: #fff;
+  /* margin-right: 20px; */
+}
+
+#image-container:hover {
+  background-color: hsl(178, 100%, 50%);
+}
+
+.text {
+  /* text-align: center; */
+}
+
+@media (min-width:375px) {
+  .text {
+    text-align: center;
+  }
+}
+
+.image2 {
+  height: 32px;
+  margin: auto;
+}
+
+hr {
+  border-style: double;
+  border-width: 1.5px;
+  width: 80%;
+  margin-left: 8%;
+}
+
+.text2 {
+  display: inline-grid;
+  margin: auto;
+}
+
+.text-creation {
+  width: 400px;
+  padding: 0 10px 0 15px;
+  color: hsl(215, 51%, 70%);
+  /* float: right; */
+  /* padding: 5px 5px 5px 5px; */
+}
+
+.icon{
+
+  padding: 0 5px 0 5px;
+
+}
+
+
+
+#text-container-h3 {
+  /* text-align: center; */
+  padding: 4% 3%;
+  color: #fff;
+}
+
+#text-container-h3:hover {
+  color: hsl(178, 100%, 50%);
+}
+
+#p1 {
+  padding: 1% 2% 1% 4%;
+  font-size: 18px;
+  color: hsl(215, 51%, 70%);
+}
+
+#text1-h4 {
+  padding: 1% 15% 2% 0%;
+  color: hsl(178, 100%, 50%);
+}
+
+#text2-h4 {
+  padding: 1% 15% 2% 0%;
+  color: hsl(215, 51%, 70%);
+  /* padding: 2% 0% 2% 0%; */
+  /* position: relative;
+  left: 0px; */
+  margin-right: 0;
+}
+
+#text-Juleus {
+  color: #fff;
+}
+
+#text-Juleus:hover {
+  color: hsl(178, 100%, 50%);
+}
+
+/* .row{
+  height: 200px;
+  background-color: #fff;
+} */
